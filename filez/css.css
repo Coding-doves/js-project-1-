@@ -1,0 +1,41 @@
+/*this section is for changebg*/
+body{
+    padding: 25px;
+}
+#chidi{
+    height: 68vh;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 40px 0 40px;
+    border-radius: 5px;
+}
+#chidi video{height: 60vh;
+    outline: none;
+}
+.c_bg{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 2px 4px 1px black;
+}
+.c_bg button{
+    margin: 15px;
+}
+.c_bg #p{background-color: pink;}
+.c_bg #g{background-color: gray;}
+.c_bg #b{background-color: brown;}
+.c_bg #a{background-color: aqua;}
+button{
+    border-radius: 4px;
+    padding: 15px;
+    background-color: navy;
+    outline: none;
+    border: none;
+    color: floralwhite;
+    font-size: 20px;
+    box-shadow: 1px 2px 4px 1px black;
+    cursor: pointer;
+}
